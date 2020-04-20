@@ -1,0 +1,24 @@
+
+* DI(Dependency Injection) Concept
+참고 : https://sourcestudy.tistory.com/396
+
+
+* 스프링 설정 파일 (Spring MVC 구조)
+참고 : https://addio3305.tistory.com/41
+-쉽게 말하자면 라이브러리 관리 파일이다.
+
+- JSP (JavaServer Pages): 자바 서버 페이지는 HTML내에 자바 코드를 삽입하여 
+웹 서버에서 동적으로 웹 페이지를 생성하여 웹 브라우저에 돌려주는 언어이다. 
+Java EE 스펙 중 일부로 웹 애플리케이션 서버에서 동작한다.
+
+
+* Framework?
+참고 : https://engkimbs.tistory.com/673
+
+*Maven vs Gradle
+참고 : https://bkim.tistory.com/13
+참고 : https://okky.tistory.com/179
+참고 : https://galid1.tistory.com/194
+
+	-Gradle 구성파일 
+	참고 : https://galid1.tistory.com/645?category=757944
